@@ -2,6 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: goserver-service
+  namespace: development
 spec:
   selector:
     app: goserver
