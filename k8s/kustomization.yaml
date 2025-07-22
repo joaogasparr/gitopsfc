@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: joaogaspar/gitopsfc
-  newTag: 4b7cdf3bc575089f62f1ca34b243c78caf77d48f
+  newTag: 59a3c0e43c31f12aceba44b939fbcef54f5bc3a8
