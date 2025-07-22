@@ -1,3 +1,3 @@
 module go-webserver-fc
 
-go 1.24.5
+go 1.23
